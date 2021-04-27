@@ -1,0 +1,9 @@
+body{
+    background-size: 100%;
+   background-image: url("unnamed.jpg");
+}
+canvas{
+
+    border: 2px solid white;
+    margin-left: 450px;
+}
